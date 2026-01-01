@@ -12,7 +12,7 @@ Translation is being done through Google Sheets. Will make the sheets public onc
 If this project goes through, a re-translation/re-work of vc3translationproject's unfinished translation is considered.  
 
 # Hacking Info
-- (under construction) 
+- [DATA.BIN Extraction](https://github.com/vincetea/vc3e2_dlc/blob/main/Extracting%20DATA.BIN.md)
 
 
 # Contributors
