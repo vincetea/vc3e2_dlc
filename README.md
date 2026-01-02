@@ -23,7 +23,7 @@ If this project goes through, a re-translation/re-work of vc3translationproject'
 
 # Special Thanks
 - Everyone that supported me through GBAtemp and Reddit
-- vc3translationproject - Making the original fan translation, which serves as the base for this project 
+- vc3translationproject - Making the [original fan translation](https://vc3translationproject.wordpress.com/author/vc3translationproject/), which serves as the base for this project 
 - Those that gave helpful advice in the [Fan Translations International's Discord server](https://fantranslators.info/contact/)
 - IcySon55 - Providing advice, encouragement, and some tools to work on this project.
 - Belmondo - Creator of [pgdecrypt](https://gbatemp.net/threads/pgd-encrypter.432029/)
