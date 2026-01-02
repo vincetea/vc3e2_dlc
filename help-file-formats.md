@@ -1,5 +1,5 @@
 # Valkyria Chronicles 3 - File Formats
-**This is edited version of unknownbrackets' documentation. Edits by me are surrounded by `.**
+**This is an edited version of unknownbrackets' documentation. Edits by me are surrounded by `.**
 ## DATA.BIN datafile
 
 This is a PGD-encrypted CPK file.  The file can be decrypted using widely
