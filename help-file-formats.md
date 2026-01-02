@@ -334,6 +334,11 @@ beginning of the data.
 
 	struct footer_padding
 	    uint32 padding          always 0x00 (padding to align ENRS)
+		
+## `More about MTP's Text`
+Text sgements are formatted like this: 
+1. 
+
 
 ### MXE files (MXEC packets)
 
@@ -427,6 +432,16 @@ defined by their identifier pointer, and may have string pointers embedded
 within those structures.
 
 The text itself is in Shift-JIS, null terminated.
+
+## `More about MXE's Text`
+Text in-game is mixed in with the filename strings and path strings. Careful not to edit the any of the path strings and filename strings!
+
+Each text segment are separated by one or two 0x00's; usually it's just one but rarely more than one.  
+
+If edited text changes the addresses of anything, you must update the pointers. If edits results in the file size becoming larger or smaller than its original size, you must update the header info. 
+
+
+
 
 ## Comparison with Valkyria Chronicles 2
 
