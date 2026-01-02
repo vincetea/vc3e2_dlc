@@ -18,7 +18,7 @@ If this project goes through, a re-translation/re-work of vc3translationproject'
 
 # Contributors
 - sekki35 -Translator; the first person to reach out to help me and provided me an editor as well
-- ecky - Editor; responsible cleaning up the translations
+- ecky - Editor; responsible for cleaning up the translations
 - Westy -Additional help; minor tasks and providing information on Valkyria Chronicles lore and characters
 
 # Special Thanks
