@@ -101,11 +101,15 @@ def findtext(mxe_path, mxenheader_Size, mxecheader_Size , mxecdata_Size, num_tbl
                 break
             txt_s_offset += 1
             mxe.seek(txt_s_offset)
-        txt_end = mxenheader_Size + mxecheader_Size + mxecdata_Size - 1
-        txt_size = txt_end - txt_s_offset + 1
-        return(txt_block_s_offset, txt_size, search_regions)
+        txt_end = mxenheader_Size + mxecheader_Size + mxecdata_Size
+        txt_size = txt_end - txt_s_offset
+        print("Text starts at:", hex(txt_s_offset))
+        print("Text block starts at:", hex(txt_block_s_offset))
+        print("Text ends at:", hex(txt_end))
+        return(txt_s_offset, txt_size, search_regions)
 
     
+
 
     #TODO: extract text and put 
 def gettext(mxe_path, txt_s_offset, txt_size, search_regions, mxenheader_Size):
