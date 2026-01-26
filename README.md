@@ -23,14 +23,14 @@ If this project goes through, a re-translation/re-work of vc3translationproject'
 
 # Special Thanks
 - Everyone that supported me through GBAtemp and Reddit
-- vc3translationproject - Making the [original fan translation](https://vc3translationproject.wordpress.com/author/vc3translationproject/), which serves as the base for this project 
+- vc3translationproject - Making the [original fan translation](https://vc3translationproject.wordpress.com/author/vc3translationproject/), which serves as the base and reference for this project 
 - Those that gave helpful advice in the [Fan Translations International's Discord server](https://fantranslators.info/contact/)
 - IcySon55 - Providing advice, encouragement, and some tools to work on this project.
 - Belmondo - Creator of [pgdecrypt](https://gbatemp.net/threads/pgd-encrypter.432029/)
 - aluigi - Creator of [quickbms](https://aluigi.altervista.org/quickbms.htm) and the CPK scripts
 - PPSSPP Team - For the [PPSSPP emulator](https://github.com/hrydgard/ppsspp) with debugging and texture viewing features
-- Brolijah - Creator [Yet Another CPK Tool](https://github.com/Brolijah/YACpkTool)
-- UMDGen Team - Creator [UMDGen](https://www.romhacking.net/utilities/1218/)
+- Brolijah - Creator of [Yet Another CPK Tool](https://github.com/Brolijah/YACpkTool)
+- UMDGen Team - Creator of [UMDGen](https://www.romhacking.net/utilities/1218/)
 - Bunaki9448 - Creator of [PSP hacking guide](https://www.romhacking.net/documents/905/) 
 - unknownbrackets - Creator of this file formats [document](https://gist.github.com/unknownbrackets/78c4631a4091044d381432ffb7f1bae4)
 
