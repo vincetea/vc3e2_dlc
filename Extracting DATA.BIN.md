@@ -29,7 +29,7 @@ similar. Shining Blade actually contains left over text files from Valkyria Chro
 - MMF - Unknown
 - MMR - Unknown
 - MSB - Unknown
-- MTP - Usually contains all of them are reels/cutscene text 
+- MTP - Usually contains reels/cutscene text 
 - MVP - Voice files? 
 - MXE - System and menu text 
 - NAD - Unknown
