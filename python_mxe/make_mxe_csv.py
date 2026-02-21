@@ -169,7 +169,7 @@ def gettext(mxe_path, txt_s_offset, txt_size, search_regions, mxenheader_Size):
         #print(rel_offset)
         ptr_bytes = struct.pack('<I', rel_offset)
         locations = []
-        for starting_offset, scan_size, in region_tables:  
+        for starting_offset, scan_size in region_tables:  
             search_start = 0
             while True:
                 found = scan_size.find(ptr_bytes, search_start)
