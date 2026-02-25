@@ -1,4 +1,4 @@
-## This project is abandoned. Scripts will not be translated but the patcher and extracter will be finished up at least! See here: https://github.com/akorov/VC3ReTranslation
+## This project is abandoned. Scripts will not be translated but the patcher will be finished up at least! See here: https://github.com/akorov/VC3ReTranslation
 
 # Valkyria Chronicles 3 Extra Edition DLC
 Documentation and tools used for the DLC's translation are preserved here. 
