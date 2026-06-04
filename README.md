@@ -1,4 +1,4 @@
-## Scripts will not be translated but the patcher will be slowly worked on! 
+## :warning: Translation is not being worked on. Patcher and other tools are archived here for others to use.  
 Another team already translated the DLC and base game here: https://github.com/akorov/VC3ReTranslation
 
 # Valkyria Chronicles 3 Extra Edition DLC
